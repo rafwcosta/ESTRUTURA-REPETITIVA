@@ -11,7 +11,7 @@ public class Exercicio1 {
         System.out.print("Digite um valor inteiro: ");
         int x = sc.nextInt();
 
-        // CÁLCULO/PROCESSAMENTO; E SAÍDA
+        // CÁLCULO / PROCESSAMENTO; E SAÍDA
         for (int i=1; i<x; i++) {
 
             if (i % 2 != 0) {
